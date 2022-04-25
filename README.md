@@ -4,7 +4,7 @@ This is the implementation of LeNet-5 convolutional neural network architecture 
 
 The LeNet-5 is trained on MNIST dataset. The implementation is loosely based on the original article provided as a reference below.
 
-LeNet-5 Predictions on MNIST dataset
+LeNet-5 Predictions on MNIST dataset  
 ![image](https://user-images.githubusercontent.com/26203136/165094921-3626d555-6e75-4aac-8aba-3a7216ac815c.png)
 
 
